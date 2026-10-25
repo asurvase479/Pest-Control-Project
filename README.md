@@ -27,3 +27,10 @@ This dashboard lets you type a keyword (like “spray”) and instantly see matc
 
 This dashboard keeps all supplier details in one place: supplier name, country of origin, products, website, email and phone. Slicers for supplier, country and source filter the list, and KPIs show the total suppliers, countries and product types. It replaces scattered vendor spreadsheets and makes sourcing outreach quicker.
 
+## Conclusion
+
+This project automates the manual work of marketplace research by combining Python scripts, the Keepa API, and Power BI. It covers data collection, cleaning, target cost calculation, and interactive reporting across 961 ASINs and $352M in annual revenue. The dashboards help the business identify top brands and categories, check product profitability, find manufacturers and suppliers, and make faster sourcing and pricing decisions.
+
+## Author - Aishwarya Survase
+
+This project is part of my portfolio, showcasing the Python automation, Power BI, and marketplace analytics skills essential for data analyst roles.
